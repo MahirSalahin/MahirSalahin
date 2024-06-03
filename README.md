@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahir Salahin</h1>
 <h3 align="center">CSE undergrad from Bangladesh</h3>
-
+<img src="https://github.com/MahirSalahin/MahirSalahin/blob/main/mosaic%20_me_gif.gif" alt="mahirsalahin" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirsalahin&label=Profile%20views&color=0e75b6&style=flat" alt="mahirsalahin" /> </p>
 
 
