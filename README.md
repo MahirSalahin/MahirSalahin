@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahir Salahin</h1>
-<p align="center">An undergraduate student in Computer Science and Engineering hailing from Bangladesh. I possess a boundless enthusiasm for learning and a strong penchant for innovation. continually seeking to expand my knowledge and make impactful contributions.</p>
+<p align="center">An undergraduate student in Computer Science and Engineering hailing from Bangladesh. I possess a boundless enthusiasm for learning and a strong penchant for innovation. Continually seeking to expand my knowledge and make impactful contributions.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirsalahin&label=Profile%20views&color=0e75b6&style=flat" alt="mahirsalahin"/> </p>
 
 
