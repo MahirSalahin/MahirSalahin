@@ -13,6 +13,7 @@
 <a href="https://fb.com/sorcerer.ankon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sorcerer.ankon" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sorcerer_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sorcerer_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zorlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zorlan" height="30" width="40" /></a>
+<a href="https://huggingface.co/Salahin" target="blank"><img align="center" src ="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt=""salahin" height="30" width="40"/></a>
 </p>
 
 
