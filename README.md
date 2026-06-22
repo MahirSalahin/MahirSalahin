@@ -2,8 +2,6 @@
 <p align="center">An undergraduate student in Computer Science and Engineering from Bangladesh. I possess a boundless enthusiasm for learning and a strong penchant for innovation. Continually seeking to expand my knowledge and make impactful contributions.</p> 
 Check out my <a href="https://salahin.vercel.app/" target="_blank" rel="noreferrer"> 🌐Portfolio </a> to see my projects and skills in action!
 <p></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirsalahin&label=Profile%20views&color=0e75b6&style=flat" alt="mahirsalahin"/> </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
