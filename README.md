@@ -36,7 +36,7 @@ Check out my <a href="https://salahin.vercel.app/" target="_blank" rel="noreferr
   <tr>
     <td><a href="https://linkedin.com/in/mahir-salahin-a8bb9a296" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/sorcerer.ankon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a></td>
-    <td><a href="https://codeforces.com/profile/sorcerer_21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a></td>
+    <td><a href="https://codeforces.com/profile/sorcerer_21" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-logo-icon-svg-download-png-2944796.png?f=webp&w=512" alt="Codeforces" height="30" width="40" /></a></td>
     <td><a href="https://www.leetcode.com/zorlan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
     <td><a href="https://huggingface.co/Salahin" target="_blank"><img src ="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="HuggingFace" height="30" width="40"/></a></td>
   </tr>
