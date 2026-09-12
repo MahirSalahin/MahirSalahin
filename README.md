@@ -40,8 +40,3 @@ Check out my <a href="https://salahin.vercel.app/" target="_blank" rel="noreferr
     <td><a href="https://huggingface.co/Salahin" target="_blank"><img src ="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="HuggingFace" height="30" width="40"/></a></td>
   </tr>
 </table>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirsalahin&show_icons=true&locale=en&layout=compact" alt="mahirsalahin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirsalahin&" alt="mahirsalahin" /></p>
